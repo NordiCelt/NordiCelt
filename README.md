@@ -1,46 +1,47 @@
 # __Ray "Trib" Triboulet__
 
 **IT, Cybersecurity Specialist, and Junior Software Developer** <br>
-*Description in paragraph form of self and skills*
+> Description in paragraph form of self and skills
 
 
 ## __Core Competencies__
 
-        Linux, Windows, MacOS,
-        Networking, CyberSecurity, Code,
-        HTML5, CSS3, Javascript
+> Linux, Windows, MacOS,
+> Networking, CyberSecurity, Code,
+> HTML5, CSS3, Javascript
 
 
 # __Professional Experience__
 
 #### Navy Operational Support Center, Fargo, ND - 2020-2023
-> *IT Specialist, Information Assurance Officer, Trusted Agent* <br>
+> IT Specialist, Information Assurance Officer, Trusted Agent <br>
 >        - stuff I did
 
 #### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2020
-> *Acting Chief of Administration, Manpower, and Medical* <br> 
+> Acting Chief of Administration, Manpower, and Medical <br> 
 >        - stuff I did
 
 #### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2017
-> *Information Systems Technician* <br>
+> Information Systems Technician <br>
 >        - stuff I did
 
 #### Navy Operational Support Center, Riverside, CA - 2013-2016
-> *IT Specialist, Information Assurance Officer, Trusted Agent* <br>
+> IT Specialist, Information Assurance Officer, Trusted Agent <br>
 >        - stuff I did
 
 #### USS Normandy (CG-60), Norfolk, VA - 2009-2013
-> *Sonar Technician* <br>
+> Sonar Technician <br>
 >        - stuff I did
 
 
 # __Education__
 #### Bachelors of Science in Cybersecurity
-> *American Public University System (American Military University)* <br>
+> American Public University System (American Military University) <br>
 >        2021-2024 <br>
 >        (In progress) <br>
+
 #### Associates of Arts in General Studies
-> *American Public University System (American Military University)* <br>
+> American Public University System (American Military University) <br>
 >        2016
 
 
