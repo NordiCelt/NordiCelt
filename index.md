@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+- 👋 Hi, I’m @NordiCelt
+- 👀 I’m interested in Cyber Security (leaning heavily into red teaming), networks, programming, and web development.
+- 🌱 I’m currently learning Penetration Testing, C# and the .NET environment, Bash scripting, and many other things.  I'm addicted to learning and bettering myself and my family.
+- 💞️ I’m looking to collaborate on pretty much anything; I'm new to programming, but I fully intend on colaborating very soon.
+- 📫 triboulet@gmail.com
 
-You can use the [editor on GitHub](https://github.com/NordiCelt/NordiCelt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+29 May 2021 
+- I just finished the live training from CompTIA on Security+. I have been exploring on my own with Kali Linux and the tools therein. I have read a lot of the nmap and wireshark documentation, and have taken on more projects since.  The Sec+ certification is pretty broad and easy as far as the concepts, but I think it will be a challenge due to all of the acronyms that we have to memorize. I'm usually much better at hands on activities than I am in memorizing anything. My memory has always been my biggest foe to learning. Anyway, I'm not worried.  I am still going through all the practice tests and labs that came with the "bundle" from CompTIA, and I see myself going for the certification within a month from now.
+- I have enrolled in TryHackMe.com to get into the hands-on activities of Cyber Security. What a great site! I started from the very beginning, so it is the "Complete Beginner Path", and I am 21% done with that. I have completed Linux Fendamentals, and begun the Networking Fundamentals. I also finished the VIM and Find (Linux find command) rooms, which are not part of the actual path.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NordiCelt/NordiCelt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!---
+NordiCelt/NordiCelt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
