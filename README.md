@@ -9,10 +9,18 @@
 
 ## __Core Competencies__  
 
-| Linux | Windows | MacOS |  
-|C# | ASP.NET | MVC |  
-|Networking | CyberSecurity | Computer Repair |  
-|Front End | Back End | SQL |  
+Linux  
+Windows  
+MacOS  
+C#  
+ASP.NET  
+MVC  
+Networking  
+CyberSecurity  
+Computer Repair  
+Front End  
+Back End  
+SQL  
 
 ## Biography  
 &nbsp;&nbsp;&nbsp;&nbsp; Though my Naval career was to be a Sonar Technician and then an Administrative professional, focusing on the use of Microsoft Office products and Naval websites as my main tools, I made my way into Information Systems as early as 5 years into my career. I was the computer, networking, cybersecurity and software subject matter expert for each of my Commands.    
