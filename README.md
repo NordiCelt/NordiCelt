@@ -1,17 +1,19 @@
-# __Hi, I'm Ray Triboulet, but you may call me Trib__  [wave]
+# __Hi, I'm Ray Triboulet, but you may call me [Trib][website]__  :wave:
+[![website](https://github.com/NordiCelt/Lab-Log/blob/main/README.md)
 
 ## __Information Technology Specialist__  
 
 ## Core Competencies  
 
-:file_folder: Linux  
-:floppy_disk: Windows  
-:apple: MacOS  
-:ballot_box_with_check: Jira Service Management  
-:hash: C#  
-:globe_with_meridians: PowerShell  
-:deciduous_tree: Active Directory  
-:satellite: Networking  
+🌳 Active Directory  
+📡 Networking 
+📁 Linux  
+💾 Windows  
+🍎 MacOS  
+☑️ Jira Service Management  
+#️⃣ C#  
+🌐 PowerShell  
+ 
 :key: CyberSecurity  
 :computer: Computer Repair  
 
@@ -23,12 +25,10 @@
     <a href="mailto:tribouletr@gmail.com" ><img align="center" alt="Ray Triboulet | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  ![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)
-</div>
-
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)](https://www.linkedin.com/in/trib-trib-35803022a/)
+  
 ## Biography  
 &nbsp;&nbsp;&nbsp;&nbsp; I joined the U.S. Navy in December of 2007 initially to be a Sonar Technician (Surface). After over a year of training in Electronic troubleshooting, the physics of sound, sonar operations, and hull mounted sonar maintenance and repair, I went to the fleet onboard the USS Normandy (CG-60) in March of 2009. From there I was an M240 Gunner, Sonar Supervisor, Hazardous Material Supervisor, among many other qualifications. I participated in earthquake relief efforts in Haiti in 2010, followed by a middle east deployment that same year, and then a 2012 Baltic Operation in which we duelled with French, British, and Russian submarines in the Baltic Sea.
 <br>
@@ -46,9 +46,9 @@
 
 # __Professional Experience__  
 
-## U.S. Navy (2007-2022)  [navy]
+## U.S. Navy (2007-2022) ⚓
 
-#### Navy Reserve Center, Fargo, ND - 2020-2022  [snow_flake]
+#### Navy Reserve Center, Fargo, ND - 2020-2022  ❄️
 
 > IT Specialist, Information Assurance Officer, Classified Material Custodian  
 >        - Improved WiFi efficiency  
@@ -56,18 +56,18 @@
 >        - Maintained user accounts through Active Directory  
 >        - Computer and Peripheral Repair and Maintenance  
 
-#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2020  [airplane]
+#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2020  ✈️
 
 > Acting Chief of Administration, Manpower, Career Counseling, and Medical Departments  
 >        -  
 
-#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2017  [jet]
+#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2017  🛩️
 
 > Information Systems Technician  
 >        - Managed almost 500 user accounts through Active Directory  
 >        - Replaced single function devices with multi-function devices  
 
-#### Navy Reserve Center, Riverside, CA - 2013-2016  [sun]
+#### Navy Reserve Center, Riverside, CA - 2013-2016  😎
 
 > IT Specialist, Information Assurance Officer, Legal Officer  
 >        - Tech Refresh over 100 assets  
@@ -77,7 +77,7 @@
 >        - Computer and Peripheral Repair and Maintenance  
 >        - Replaced single function devices with multi-function devices  
 
-#### USS Normandy (CG-60), Norfolk, VA - 2009-2013  [ship]
+#### USS Normandy (CG-60), Norfolk, VA - 2009-2013  🚢
 
 > Sonar Technician  
 >        - Anti-Submarine Warfare (Active Sonar System Operator)  
@@ -85,15 +85,15 @@
 >        - M240 Machine Gun Operator (Battlestation on port and starboard bridgewing)  
 >        - Hazardous Materials Supervisor  
 
-# __Education__  [school]
+# __Education__  🏫
 
-#### Associates of Arts in General Studies (2016)  [book]
+#### Associates of Arts in General Studies (2016)  📖
 &nbsp;&nbsp;&nbsp;&nbsp; American Public University System (American Military University)  
 
-#### Career Diploma in Automotive Technology (2018)  [wrench]
+#### Career Diploma in Automotive Technology (2018)  🔧
 &nbsp;&nbsp;&nbsp;&nbsp; Ashford College  
 
-#### Certified Personal Trainer (2020)  [lift_weights]
+#### Certified Personal Trainer (2020)  🏋️‍♂️
 &nbsp;&nbsp;&nbsp;&nbsp; International Sports Sciences Association  
 <!--
 # __Non-Professional Experience__  
