@@ -26,7 +26,7 @@
 <br><br>
 
 <div align="center">
-  [![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)
+  ![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)
 </div>
 
 ## Biography  
