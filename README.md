@@ -33,7 +33,7 @@
 
 <br>
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)](https://www.linkedin.com/in/trib-trib-35803022a/)
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE)](https://www.linkedin.com/in/trib-trib-35803022a/)
   
 ## Biography  
 &nbsp;&nbsp;&nbsp;&nbsp; I joined the U.S. Navy in December of 2007 initially to be a Sonar Technician (Surface). After over a year of training in Electronic troubleshooting, the physics of sound, sonar operations, and hull mounted sonar maintenance and repair, I went to the fleet onboard the USS Normandy (CG-60) in March of 2009. From there I was an M240 Gunner, Sonar Supervisor, Hazardous Material Supervisor, among many other qualifications. I participated in earthquake relief efforts in Haiti in 2010, followed by a middle east deployment that same year, and then a 2012 Baltic Operation in which we duelled with French, British, and Russian submarines in the Baltic Sea.
