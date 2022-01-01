@@ -15,9 +15,7 @@
 :key: CyberSecurity  
 :computer: Computer Repair  
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="trib-trib-35803022a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/trib-trib-35803022a?trk=profile-badge">Trib Trib</a></div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+https://linkedin-github.herokuapp.com/api/render/Ray%20Triboulet/Veteran%20US%20Navy%20IT%20Specialist/IT%20Specialist/Associates%20Degree/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQHYaMD2rTXk7A%2Fprofile-displayphoto-shrink_200_200%2F0%2F1641061303727%3Fe%3D1646265600%26v%3Dbeta%26t%3Dc3HMNYNF_dD0_LceOI0dLEKpXCLBdpI7LfVgB4R_POE
 
 ## Biography  
 &nbsp;&nbsp;&nbsp;&nbsp; Though my Naval career was initially to be a Sonar Technician and then an Administrative professional, focusing on the use of Microsoft Office products and Naval websites as my main tools, I made my way into Information Systems as early as 5 years into my career. I was the computer, networking, cybersecurity and software subject matter expert for each of my Commands between 2014-2022.    
@@ -86,8 +84,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; International Sports Sciences Association  
 
 # __Non-Professional Experience__  
-#### Lab experience
-&nbsp;&nbsp;&nbsp;&nbsp; as documented here:  https://github.com/NordiCelt/Lab-Log
+#### 
 
 <br>
 <br>
@@ -95,13 +92,12 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NordiCelt&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
- <br> 
+<br> 
 
- <br>
-
-  <div align="center">
+<div align="center">
   <h3><b> [wave] You Can Connect With Me On:</b></h3>
-  </div>
+</div>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/trib-trib-35803022a/" target="_blank">
   <img align="center" alt="Ray Triboulet | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -115,24 +111,23 @@
 <a href="mailto:tribouletr@gmail.com" >
   <img align="center" alt="Ray Triboulet | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/user/tribouletr" >
-  <img align="center" alt="Ray Triboulet | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/4692500/trib" >
-  <img align="center" alt="Ray Triboulet | StackOverflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
-</a> &nbsp;&nbsp;
 </p>
 
-<br>
-  
-![](https://komarev.com/ghpvc/?NordiCelt)
+<div align="center">
+ 
+  ![](https://vistr.dev/badge?repo=NordiCelt.NordiCelt) 
+ 
+</div>
 
-<br>
-  
+<div align="center">
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NordiCelt) 
 
+</div>
+ 
 <br>
-  
+<div align="center">
+ 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tribouletr&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<br>
+</div>
