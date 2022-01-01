@@ -1,21 +1,27 @@
-# __Hi, I'm Ray Triboulet, but you may call me [Trib][website]__  :wave:
-[![website](https://github.com/NordiCelt/Lab-Log/blob/main/README.md)
+# __Hi, I'm Ray Triboulet, but everyone calls me Trib__  👋
 
-## __Information Technology Specialist__  
+## __I am an Information Technology Specialist__  🤓
 
-## Core Competencies  
+## Things I'm good at:  
 
 🌳 Active Directory  
-📡 Networking 
+💾 Windows Server
+🖥️ Microsoft Office 365
+🧑‍🤝‍🧑 Microsoft Teams
+📺 SharePoint
 📁 Linux  
-💾 Windows  
-🍎 MacOS  
+🖱️ Computer Repair  
+🖨️ Peripheral Troubleshooting
+
+## Things I'm actively getting better at
+*Check out my progress:* <a href="https://github.com/NordiCelt/Lab-Log/blob/main/README.md" target="_blank" alt="Ray Triboulet | Learning Journal">Learning Journal</a>
+
+🗃️ Cisco Routing and Switching
 ☑️ Jira Service Management  
-#️⃣ C#  
-🌐 PowerShell  
- 
-:key: CyberSecurity  
-:computer: Computer Repair  
+🌐 PowerShell
+📡 Wi-Fi Protocols
+☁️ Azure
+🌥️ AWS
 
 <div align="center">
   <h3><b> You Can Connect With Me On:</b></h3>
