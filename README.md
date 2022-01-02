@@ -5,6 +5,7 @@
 ## Things I'm good at:  
 
 🌳 Active Directory    
+🌐 PowerShell   
 💾 Windows Server    
 🖥️ Microsoft Office 365    
 🧑‍🤝‍🧑 Microsoft Teams    
@@ -14,11 +15,10 @@
 🖨️ Peripheral Troubleshooting    
 
 ## Things I'm actively getting better at:
-*Check out my progress:* <a href="https://github.com/NordiCelt/Lab-Log/blob/main/README.md" target="_blank" alt="Ray Triboulet | Learning Journal">Learning Journal</a>
+*Check out my progress:* <a href="https://github.com/NordiCelt/Jounal-of-Learning" target="_blank" alt="Ray Triboulet | Learning Journal">Learning Journal</a>
 
 🗃️ Cisco Routing and Switching    
 ☑️ Jira Service Management    
-🌐 PowerShell    
 📡 Wi-Fi Protocols    
 ☁️ Azure    
 🌥️ AWS    
