@@ -24,7 +24,7 @@
 🌥️ AWS    
 
 ## You Can Connect With Me On:
-<p><a href="https://www.linkedin.com/in/trib-trib-35803022a/" target="_blank"><img align="center" alt="Ray Triboulet | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
+<p><a href="https://www.linkedin.com/in/ray-triboulet-35803022a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFKP%2Bt10wTAykUDX9FwUQKQ%3D%3D" target="_blank"><img align="center" alt="Ray Triboulet | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/RayTrib" target="_blank"><img align="center" alt="Ray Triboulet | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" /></a> &nbsp;&nbsp;
 <a href="https://github.com/NordiCelt" target="_blank"><img align="center" alt="Ray Triboulet | Github" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/github.gif" /></a> &nbsp;&nbsp;
   <a href="mailto:tribouletr@gmail.com" ><img align="center" alt="Ray Triboulet | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a></p>
