@@ -53,54 +53,59 @@
 
 # __Professional Experience__  
 
-## U.S. Navy (2007-2022) ⚓
+## U.S. Navy (2007-2022)   
 
-#### Navy Reserve Center, Fargo, ND - 2020-2022  ❄️
+#### Navy Reserve Center, Fargo, ND - 2020-2022   
 
-> IT Specialist, Information Assurance Officer, Classified Material Custodian  
->        - Improved WiFi efficiency  
->        - Maintained Classified Material  
->        - Maintained user accounts through Active Directory  
->        - Computer and Peripheral Repair and Maintenance  
+IT Specialist, Information Assurance Officer, Classified Material Custodian  
+- Administer user accounts and groups through Active Directory
+- Identify and resolve end user issues (desktops, laptops, printers, scanners, phones, verifying network connections, etc.)
+- Create and maintain the SharePoint
+- Provide support on Windows 10, Windows Server 2008-2019, Microsoft Office 365, and various other business applications
+- Managed all command help desk trouble tickets
+- Provides support and troubleshooting of application to both internal teams and external customers via telephone, live online chat and email 
+- Troubleshoot issues with hardware and network connectivity
 
-#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2020  ✈️
 
-> Acting Chief of Administration, Manpower, Career Counseling, and Medical Departments  
->        -  
+#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2020    
 
-#### Fighter Squadron Composite THIRTEEN, Fallon NV - 2016-2017  🛩️
+Information Systems Officer (August 2016 – December 2017):    
+- Create, modify, and delete user accounts in Active Directory
+- Frequently visit several offsite locations to deliver and set up new workstations and office equipment, including PCs, laptops, printers, and multi-function devices
+- Acuity and systems knowledge to provide technical support to end-users, including but not limited to: hardware support, web browser troubleshooting, and support of proprietary applications   
 
-> Information Systems Technician  
->        - Managed almost 500 user accounts through Active Directory  
->        - Replaced single function devices with multi-function devices  
+Acting Leading Chief Petty Officer (January 2018 – August 2020), responsible for:    
+- Administration Department (correspondence, awards, directives, human resources, pay)
+- Medical Department (including the medical and dental needs of the Command)
+- Career Counselor (reenlistments, and retirements)
 
-#### Navy Reserve Center, Riverside, CA - 2013-2016  😎
 
-> IT Specialist, Information Assurance Officer, Legal Officer  
->        - Tech Refresh over 100 assets  
->        - Improved WiFi efficiency  
->        - Maintained Classified Material  
->        - Maintained user accounts through Active Directory  
->        - Computer and Peripheral Repair and Maintenance  
->        - Replaced single function devices with multi-function devices  
+#### Navy Reserve Center, Riverside, CA - 2013-2016   
 
-#### USS Normandy (CG-60), Norfolk, VA - 2009-2013  🚢
+Information Systems Officer   
+- Created and managed over 500 user accounts and groups with Active Directory
+- Provide timely support for hardware, software, and network-related issues, responding to and solving all tickets
+- Single-handedly replaced all single use peripherals (printers/scanners/fax machines) with multi-function devices achieving compliance with new Naval policies
+- Reduced customer wait time by 800% by seeking untrained volunteers, training them in portions of help desk duties, and employing them during busy hours, saving hundreds of man hours every month
+ 
 
-> Sonar Technician  
->        - Anti-Submarine Warfare (Active Sonar System Operator)  
->        - Sonar Equipment Maintenance (electronic and water cooling systems)  
->        - M240 Machine Gun Operator (Battlestation on port and starboard bridgewing)  
->        - Hazardous Materials Supervisor  
+#### USS Normandy (CG-60), Norfolk, VA - 2009-2013   
 
-# __Education__  🏫
+Sonar Technician   
+- Anti-Submarine Warfare (Active Sonar System Operator)  
+- Sonar Equipment Maintenance (electronic and water cooling systems)  
+- M240 Machine Gun Operator (Battlestation on port and starboard bridgewing)  
+- Hazardous Materials Supervisor  
 
-#### Associates of Arts in General Studies (2016)  📖
+# __Education__   
+
+#### Associates of Arts in General Studies (2016)   
 &nbsp;&nbsp;&nbsp;&nbsp; American Public University System (American Military University)  
 
-#### Career Diploma in Automotive Technology (2018)  🔧
+#### Career Diploma in Automotive Technology (2018)   
 &nbsp;&nbsp;&nbsp;&nbsp; Ashford College  
 
-#### Certified Personal Trainer (2020)  🏋️‍♂️
+#### Certified Personal Trainer (2020)   
 &nbsp;&nbsp;&nbsp;&nbsp; International Sports Sciences Association  
 <!--
 # __Non-Professional Experience__  
