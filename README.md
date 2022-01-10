@@ -1,27 +1,12 @@
-# __Hi, I'm Ray Triboulet, but everyone calls me Trib__  👋
+# __Hi, I'm Ray Triboulet, but everyone calls me Trib__   
 
-# __I am an Information Technology Specialist__  🤓
+# __I am an Information Technology Specialist__   
 
-## Things I'm good at:  
+## Key Skills:  
 
-🌳 Active Directory    
-🌐 PowerShell   
-💾 Windows Server    
-🖥️ Microsoft Office 365    
-🧑‍🤝‍🧑 Microsoft Teams    
-📺 SharePoint    
-📁 Linux    
-🖱️ Computer Repair    
-🖨️ Peripheral Troubleshooting    
+Active Directory • Windows Server (2016-2019) • Microsoft Office 365 • Customer Technical Support • Software and Hardware Troubleshooting • MS Teams • SharePoint • LAN/WAN Networks    
 
-## Things I'm actively getting better at:
 *Check out my progress:* <a href="https://github.com/NordiCelt/Jounal-of-Learning" target="_blank" alt="Ray Triboulet | Learning Journal">Learning Journal</a>
-
-🗃️ Cisco Routing and Switching    
-☑️ Jira Service Management    
-📡 Wi-Fi Protocols    
-☁️ Azure    
-🌥️ AWS    
 
 ## You Can Connect With Me On:
 <p><a href=" www.linkedin.com/in/ray-trib" target="_blank"><img align="center" alt="Ray Triboulet | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
